@@ -1,0 +1,7 @@
+Flask==2.0.1
+SQLAlchemy==1.4.23
+Flask-Migrate
+Flask-Login
+mysql-connector-python
+mysqlclient
+request
